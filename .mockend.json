@@ -4,5 +4,8 @@
   },
   "Comment": {
     "title": { "string": {} }
+  },
+  "User": {
+    "title": { "string": {} }
   }
 }
