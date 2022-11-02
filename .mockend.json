@@ -1,11 +1,11 @@
 {
   "Post": {
-    "title": { "string": {} }
+    "title": { "loremWord": {} }
   },
   "Comment": {
-    "title": { "string": {} }
+    "title": { "loremWord": {} }
   },
   "User": {
-    "title": { "string": {} }
+    "title": { "loremWord": {} }
   }
 }
