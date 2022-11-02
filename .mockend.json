@@ -6,7 +6,10 @@
     "title": { "loremWord": {} }
   },
   "User": {
-    "title": { "loremWord": {} }
+    "title": { "string": [
+      "Thor",
+      "Loki"
+    ]}
   },
   "Object": {
     "title": { "loremWord": {} }
