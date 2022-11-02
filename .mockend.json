@@ -3,6 +3,6 @@
     "title": { "string": {} }
   },
   "Post": {
-    "title": {"string": {}}
-  }
+    "title": { "string": {} }
+  },
 }
