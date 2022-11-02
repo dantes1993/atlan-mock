@@ -1,8 +1,14 @@
 {
-  "User": {
-    "title": { "string": {} }
-  },
   "Post": {
-    "title": { "string": {} }
+    "title": { "string": {} },
+    "comments": {
+      "hasMany": "Comment"
+    }
   },
+  "Comment": {
+    "body": { "string": {} },
+    "post": {
+      "belongsTo": "Post"
+    }
+  }
 }
