@@ -8,7 +8,7 @@
   "User": {
     "title": { "loremWord": {} }
   },
-  "Data": {
+  "Object": {
     "title": { "loremWord": {} }
   }
 }
